@@ -1,0 +1,28 @@
+_repo: Henry-Wadsworth-Longfellow_33402
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Higginson, Thomas Wentworth
+    alias: Higginson, T. W. (Thomas Wentworth)
+    birthdate: 1823
+    deathdate: 1911
+    gutenberg_agent_id: '503'
+    url: http://www.gutenberg.org/2009/agents/503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+description: ''
+gutenberg_issued: '2010-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Longfellow, Henry Wadsworth, 1807-1882'
+title: Henry Wadsworth Longfellow
+url: http://www.gutenberg.org/ebooks/33402
